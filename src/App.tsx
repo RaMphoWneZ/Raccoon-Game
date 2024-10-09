@@ -21,7 +21,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-400 to-blue-600 text-white flex flex-col" style={{backgroundImage: "url('/background.png')"}}>
+    <div className="min-h-screen bg-gradient-to-b from-blue-400 to-blue-600 text-white flex flex-col" style={{backgroundImage: "url('/background1.png')"}}>
       <div className="flex justify-between items-center p-4 bg-[#17212b]">
         <ChevronLeft size={24} />
         <h1 className="text-lg font-semibold">Game (HomeScreen) LVL {level}</h1>
